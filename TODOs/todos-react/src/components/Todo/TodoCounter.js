@@ -9,4 +9,4 @@ function TodoCounter() {
     <h1>Has completado { completedTodo } de { fullTodos }</h1>
   );
 }
-export { TodoCounter };
+export { TodoCounter }; 

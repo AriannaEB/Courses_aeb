@@ -14,4 +14,4 @@ function TodoItem({ text, completed, onCompleted, onDelete }) {
   );
 }
 
-export { TodoItem };
+export { TodoItem }; 
